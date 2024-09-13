@@ -20,7 +20,8 @@
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & [Months]
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]
+
+    **2.** Create Profit and Loss (P&L) reports by _[Markets]
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
