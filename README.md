@@ -5,13 +5,13 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report]
+    **1.** Create a _[customer performance report](https://github.com/V-Vyshnavi/Excel-Sales-Analytics/blob/main/AtliQ%20Net%20Sales%20Report.pdf)
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/V-Vyshnavi/Excel-Sales-Analytics/blob/main/AtliQ%20Market%20vs%20Target%20report.pdf)
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Purpose of sales analytics:** Empower businesses to monitor and analyze data for identifying trends and performance.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+- **Importance of analyzing sales data:** Identify sales patterns, optimizing sales strategies, and improving decision-making that helps businesses increase efficiency and boost revenue growth. 
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
@@ -20,12 +20,13 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year] & [Months]
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/V-Vyshnavi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Years.pdf)_ & _[Months](https://github.com/V-Vyshnavi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Months.pdf)_ 
 
-    **2.** Create Profit and Loss (P&L) reports by _[Markets]
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/V-Vyshnavi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Market.pdf)_
+
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and optimizing resource allocation, and ensuring financial stability.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
